@@ -2,7 +2,7 @@
 
 Welcome to my **React All Topics Practice** repository! 🚀
 
-This repository contains all multiple React projects that I built while learning React. Each project focuses on a different concept, helping me strengthen my understanding of modern React development.
+This repository contains all multiple React projects that I built while learning React. Each project focuses on a different concept, it helping me strengthen my understanding of modern React development.
 
 # 📚 Topic Covered
 
