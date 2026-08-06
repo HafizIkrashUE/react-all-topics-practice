@@ -102,4 +102,4 @@ This repository is primarily for learning and practice. Suggestions and improvem
 
 ---
 
-⭐ If you find this repository helpful, consider giving it a **Star**!
+⭐ If you find this repository helpful, consider giving it a **Stars**!
